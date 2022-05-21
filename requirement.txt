@@ -2,3 +2,5 @@ This is vhat application
 
 Emoji
 colors
+Dark mode
+Video calls
